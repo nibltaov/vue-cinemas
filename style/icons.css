@@ -1,0 +1,17 @@
+.icon-film::before {
+    content: '\f008';
+    font-weight: 300;
+}
+.icon-play::before {
+    content: '\f04b';
+    font-weight: 900;
+    position: absolute;
+}
+.icon-play::after {
+    content: '\10f04b';
+    font-weight: 900;
+}
+.icon-menu::before {
+    content: '\f0c9';
+    font-weight: 300;
+}
